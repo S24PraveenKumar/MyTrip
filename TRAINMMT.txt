@@ -1,0 +1,2 @@
+Scenario : book a train from chennai to mumbai
+ 
